@@ -40,7 +40,3 @@ Laptop with Internet connection <br/>
 * [Professional Swift](https://prod.packtpub.com/in/application-development/professional-swift)
 
 * [Diving Deeper with Swift [Video]](https://prod.packtpub.com/in/application-development/diving-deeper-swift-video)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789619225">https://packt.link/free-ebook/9781789619225 </a> </p>
